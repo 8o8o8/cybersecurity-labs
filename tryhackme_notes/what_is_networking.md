@@ -5,3 +5,5 @@
 - Key takeaway:  
   - ping = checks reachability/latency  
   - 	racert = shows path between devices
+
+
